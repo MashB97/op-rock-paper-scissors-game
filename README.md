@@ -11,10 +11,12 @@ Hello everyone! This project is an exercise from the [Odin Project](https://www.
     - Move the variables from `playRound` into the new function `playGame`
     - Play 5 rounds by calling `playRound`
     - At the end of the 5 rounds, the output should be 'You won! 5-0' or 'You lost! 2-3'"
+The [Odin Project](https://www.theodinproject.com/) Exercise 2: In the rps-ui branch, modify the code to support a user-selectable option from a set of three buttons, a game length of five rounds, real-time score updates, a final score display, and a mechanism to reset the game state.
 
 ## Programming Languages Used
 
 - **HTML5**
+- **CSS3**
 - **Java Script**
 
 ## How to Clone the Repository Locally

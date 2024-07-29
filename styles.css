@@ -1,0 +1,33 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.title, .sub-title, .result-text {
+    text-align: center;
+    padding: 20px;
+    font-size: 40px;
+}
+.btn-container {
+    margin: 20px;
+}
+button {
+    font-size: 40px;
+    margin: 20px 40px;
+}
+#result {
+    margin: 20px;
+    
+}
+.win {
+    background-color: #0ffa98;
+}
+.lose {
+    background-color: #ff00ab;
+}
