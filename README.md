@@ -1,6 +1,6 @@
-# Odin Project Exercise - Landing Page
+# Odin Project Exercise - Rock Paper Scissors Game
 
-Hello everyone! This project is an exercise from the [Odin Project](https://www.theodinproject.com/), which involves creating the game Rock Paper Scissors. The objective of the exercise is to create the game from scratch to practice problem-solving skills. The requirements were:
+Hello everyone! This project is an exercise from the [Odin Project](https://www.theodinproject.com/), which involves creating the game Rock Paper Scissors. The objective of the exercise is to create the game from scratch to practice problem-solving skills. Objective:
 
     - Create a function `getComputerChoice`, `getHumanChoice`
     - Two variables to keep track of the score, `humanScore`/`computerScore` (initializing them to 0)
@@ -24,13 +24,13 @@ The [Odin Project](https://www.theodinproject.com/) Exercise 2: In the rps-ui br
 1. **Clone the Repository**
 
    ```bash
-   git clone git@github.com:MashB97/op-landig-page.git
+   git clone git@github.com:MashB97/op-rock-paper-scissors-game.git
 
 
 2. **Access the Repository Directory**
 
     ```bash
-    cd op-landig-page
+    cd op-rock-paper-scissors-game
 
 ## How to Commit Changes and Update GitHub
 
